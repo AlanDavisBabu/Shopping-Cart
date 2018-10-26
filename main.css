@@ -1,0 +1,14 @@
+.todolist{
+    margin-left: 25%;
+    margin-top: 2%;
+    margin-right: 30%;
+}
+
+.newtodo{
+    margin-left:85%;
+    margin-bottom: 2%;
+}
+
+.checkbox{
+    padding-left: 10px;
+}
